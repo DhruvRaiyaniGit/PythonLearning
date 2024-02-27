@@ -23,3 +23,6 @@ class DD(CC,BB):
 
 DD_obj = DD()
 print(DD_obj.methodDD())
+#this is i am editing to commit second time
+
+print("Thanks to me for doing the work")
